@@ -1,0 +1,5 @@
+export S3PROXY_AWS_KEY="AKIAJQRFC4M3BBIZEMPQ"
+export S3PROXY_AWS_SECRET="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"
+export S3PROXY_AWS_REGION="ap-southeast-1"
+export S3PROXY_AWS_BUCKET="edgecache"
+export GOPATH="/users/aarati_K/go/"
